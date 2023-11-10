@@ -1,0 +1,8 @@
+{% if weather_data %}
+    <div class="outline">
+        <h1>{{ weather_data.city }}</h1> 
+        <h2>{{ weather_data.temperature }}°C</h2>
+    </div>
+    <h3>{{ weather_data.description }}</h3>
+    <img src="http://openweathermap.org/img/w/{{ weather_data.icon }}.png" alt="{{ weather_data.description }}">
+{% endif %}

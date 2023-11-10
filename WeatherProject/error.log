@@ -1,0 +1,657 @@
+2023-11-04 23:00:55,422 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-04 23:01:13,346 - ERROR: Error in retrieving weather data for city: 
+2023-11-04 23:01:13,346 - ERROR: You must fill at least City 1. Please check your input and try again.
+2023-11-04 23:01:23,428 - ERROR: Error in retrieving weather data for city: hibdk
+2023-11-04 23:01:23,428 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:07:04,761 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-04 23:07:17,122 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:07:17,122 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists, please email WeatherAppIssues@gmail.com with your problem.
+2023-11-04 23:09:47,516 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-04 23:11:03,235 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-04 23:11:11,533 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:11:11,534 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:12:51,332 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:12:51,332 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:13:03,990 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:13:03,990 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:13:17,519 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:13:17,519 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:13:38,049 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:13:38,049 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:13:57,020 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:13:57,020 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:14:13,590 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:14:13,590 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:14:24,092 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:14:24,092 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:14:37,264 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:14:37,264 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:15:58,475 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:15:58,475 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:16:48,384 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:16:48,384 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:17:40,461 - ERROR: Error in retrieving weather data for city: kb
+2023-11-04 23:17:40,461 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-04 23:30:12,768 - ERROR: Error in retrieving weather data for city: 
+2023-11-04 23:30:12,778 - ERROR: You must fill at least City 1. Please check your input and try again.
+2023-11-04 23:30:33,726 - ERROR: Error in retrieving weather data for city: 
+2023-11-04 23:30:33,726 - ERROR: You must fill at least City 1. Please check your input and try again.
+2023-11-04 23:31:46,828 - ERROR: Error in retrieving weather data for city: 
+2023-11-04 23:31:46,828 - ERROR: You must fill at least City 1. Please check your input and try again.
+2023-11-04 23:34:28,945 - ERROR: Error in retrieving weather data for city: 
+2023-11-04 23:34:28,945 - ERROR: You must fill at least City 1. Please check your input and try again.
+2023-11-05 09:58:58,808 - WARNING: Not Found: /favicon.ico
+2023-11-05 15:58:25,884 - WARNING: Not Found: /favicon.ico
+2023-11-05 16:01:10,019 - ERROR: Error in retrieving weather data for city: 
+2023-11-05 16:01:10,019 - ERROR: You must fill at least City 1. Please check your input and try again.
+2023-11-05 16:08:27,485 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 16:08:45,961 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 16:08:54,782 - ERROR: Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'city 1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py", line 28, in index
+    city1 = request.POST['city 1']
+            ~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'city 1'
+2023-11-05 16:28:01,951 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 16:28:21,261 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 16:28:24,781 - ERROR: Error in retrieving weather data for city: 
+2023-11-05 16:28:24,781 - ERROR: You must fill at least City 1. Please check your input and try again.
+2023-11-05 17:08:19,824 - ERROR: Error in retrieving weather data for city: id
+2023-11-05 17:08:19,826 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 17:13:16,842 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 17:40:55,168 - ERROR: Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py", line 60, in index
+    return render(request, "weather_app/index.html", context)
+                                                     ^^^^^^^
+UnboundLocalError: cannot access local variable 'context' where it is not associated with a value
+2023-11-05 17:45:01,720 - ERROR: Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py", line 60, in index
+    return render(request, "weather_app/index.html", context)
+                                                     ^^^^^^^
+UnboundLocalError: cannot access local variable 'context' where it is not associated with a value
+2023-11-05 17:45:58,642 - ERROR: Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py", line 60, in index
+    return render(request, "weather_app/index.html", context)
+                                                     ^^^^^^^
+UnboundLocalError: cannot access local variable 'context' where it is not associated with a value
+2023-11-05 17:52:02,799 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 17:54:08,793 - ERROR: Error in retrieving weather data for city: lodnon
+2023-11-05 17:54:08,794 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 18:08:50,874 - ERROR: Error in retrieving weather data for city: jkw
+2023-11-05 18:08:51,494 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 18:08:59,324 - ERROR: Error in retrieving weather data for city: pkqdjh
+2023-11-05 18:08:59,324 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 18:54:32,557 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 18:56:56,260 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 18:57:51,886 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 19:00:49,010 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 19:01:42,236 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 19:34:06,895 - ERROR: Error in retrieving weather data for city: 236376287
+2023-11-05 19:34:11,262 - ERROR: Error in retrieving weather data for city: 37982
+2023-11-05 19:34:11,268 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 19:34:29,948 - ERROR: Error in retrieving weather data for city: 51.5072° N, 0.1276° W
+2023-11-05 19:34:29,948 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 19:58:35,187 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 19:58:44,239 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 19:58:45,073 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 472
+2023-11-05 19:58:51,921 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 19:58:52,776 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 472
+2023-11-05 19:58:52,776 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 19:58:53,579 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 19:58:53,596 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Brighton&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 489
+2023-11-05 19:58:54,683 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 472
+2023-11-05 19:58:54,683 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 19:58:55,496 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Brighton&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 489
+2023-11-05 19:59:03,817 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 19:59:04,514 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q='%5B;'&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 19:59:04,530 - ERROR: Error in retrieving weather data for city: '[;'
+2023-11-05 19:59:04,530 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 19:59:05,857 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=x,jq&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 19:59:05,872 - ERROR: Error in retrieving weather data for city: x,jq
+2023-11-05 19:59:05,872 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 20:07:11,664 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:12,508 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q='%5B;'&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 20:07:12,512 - ERROR: Error in retrieving weather data for city: '[;'
+2023-11-05 20:07:12,515 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:13,422 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=x,jq&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 20:07:13,422 - ERROR: Error in retrieving weather data for city: x,jq
+2023-11-05 20:07:13,422 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 20:07:19,823 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:21,005 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-05 20:07:21,013 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:21,590 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Brighton&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 489
+2023-11-05 20:07:27,679 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:28,777 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 492
+2023-11-05 20:07:33,509 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:35,444 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 492
+2023-11-05 20:07:35,447 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:36,762 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=dbuqkb&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 20:07:36,777 - ERROR: Error in retrieving weather data for city: dbuqkb
+2023-11-05 20:07:36,777 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 20:07:43,120 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:43,735 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 492
+2023-11-05 20:07:43,744 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:44,759 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=jdvj637612&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 20:07:44,763 - ERROR: Error in retrieving weather data for city: jdvj637612
+2023-11-05 20:07:44,763 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 20:07:49,941 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:50,561 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 492
+2023-11-05 20:07:50,561 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:51,520 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=47879412&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 20:07:51,533 - ERROR: Error in retrieving weather data for city: 47879412
+2023-11-05 20:07:51,533 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 20:07:56,860 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:57,633 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=3789793&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 20:07:57,633 - ERROR: Error in retrieving weather data for city: 3789793
+2023-11-05 20:07:57,633 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:07:58,214 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 492
+2023-11-05 20:07:58,229 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 20:08:05,143 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:08:05,805 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=bhk8y8y&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 20:08:05,805 - ERROR: Error in retrieving weather data for city: bhk8y8y
+2023-11-05 20:08:05,805 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:08:07,341 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 492
+2023-11-05 20:08:07,344 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 20:08:17,155 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:08:18,412 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=kbkqjbj&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 20:08:18,412 - ERROR: Error in retrieving weather data for city: kbkqjbj
+2023-11-05 20:08:18,412 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 20:08:19,305 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 492
+2023-11-05 20:08:19,305 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 22:14:16,606 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:14:17,685 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 472
+2023-11-05 22:14:17,701 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:14:18,521 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 490
+2023-11-05 22:22:16,290 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 22:24:53,649 - ERROR: Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py", line 12, in index
+    API_KEY = open("API", "r").read()
+              ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'API'
+2023-11-05 22:25:35,606 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 22:25:43,186 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:25:44,011 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=lONDON&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 472
+2023-11-05 22:26:26,298 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:26:26,979 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=ACCRA&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-05 22:26:26,979 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:26:29,226 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=KUMASI&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 510
+2023-11-05 22:28:40,062 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:28:40,806 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=ACCRA&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-05 22:28:40,806 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:28:41,505 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=KUMASI&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 510
+2023-11-05 22:29:36,485 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:29:37,175 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=ACCRA&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-05 22:29:37,183 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:29:38,385 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=KUMASI&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 510
+2023-11-05 22:31:03,475 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:31:04,678 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=ACCRA&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-05 22:31:04,683 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:31:05,283 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=KUMASI&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 510
+2023-11-05 22:31:29,424 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:31:30,848 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=ACCRA&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-05 22:31:30,848 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:31:31,678 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=KUMASI&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 510
+2023-11-05 22:35:13,936 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:35:15,015 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=ACCRA&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-05 22:35:15,015 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:35:16,159 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=KUMASI&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 510
+2023-11-05 22:36:42,855 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:36:43,614 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 469
+2023-11-05 22:36:43,614 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:36:44,224 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-05 22:37:02,326 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:37:02,978 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 469
+2023-11-05 22:37:02,994 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:37:03,652 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-05 22:37:17,406 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:37:18,075 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 469
+2023-11-05 22:37:18,110 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:37:19,124 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-05 22:52:22,124 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:52:22,986 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=london&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 468
+2023-11-05 22:52:26,955 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:52:28,657 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:52:28,659 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 22:52:28,660 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:52:29,475 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:52:29,476 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 22:52:29,478 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 22:53:21,312 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:53:21,888 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:53:21,901 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 22:53:21,902 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:53:22,210 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:53:22,212 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 22:53:22,212 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 22:54:52,294 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:54:52,838 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:54:52,840 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 22:54:52,841 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:54:53,705 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:54:53,709 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 22:54:53,709 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 22:55:19,104 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:55:19,581 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:55:19,587 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 22:55:19,588 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:55:20,023 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:55:20,025 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 22:55:20,025 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 22:55:39,308 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:55:40,193 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:55:40,193 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 22:55:40,193 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:55:41,533 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:55:41,536 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 22:55:41,536 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 22:55:49,381 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:55:49,707 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:55:49,710 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 22:55:49,711 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 22:55:50,407 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 22:55:50,408 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 22:55:50,408 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 23:00:59,753 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:01:00,202 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:01:00,204 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:01:00,205 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:01:01,867 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:01:01,869 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:01:01,869 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 23:01:11,369 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:01:11,973 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:01:11,975 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:01:11,975 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:01:12,552 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:01:12,555 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:01:12,555 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 23:01:26,054 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:01:27,035 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:01:27,037 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:01:27,037 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:01:28,710 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:01:28,712 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:01:28,713 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 23:01:43,253 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:01:43,548 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:01:43,548 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:01:43,559 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:01:44,888 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:01:44,889 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:01:44,890 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 23:02:00,934 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:02:02,037 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:02:02,037 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:02:02,037 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:02:02,600 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:02:02,603 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:02:02,603 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 23:02:23,784 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:02:24,454 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:02:24,456 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:02:24,459 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:02:24,764 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:02:24,768 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:02:24,768 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 23:02:37,663 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:02:38,530 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:02:38,534 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:02:38,535 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:02:38,854 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:02:38,858 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:02:38,858 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 23:03:26,602 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:03:27,256 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:03:27,259 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:03:27,261 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:03:27,592 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:03:27,594 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:03:27,594 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email WeatherAppIssues@gmail.com with your problem
+2023-11-05 23:04:09,359 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 23:04:26,982 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:04:27,318 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:04:27,318 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:04:27,318 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:04:27,634 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:04:27,650 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:04:27,650 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email weatherappissues@gmail.com with your problem
+2023-11-05 23:05:07,400 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 23:05:11,743 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:05:12,434 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:05:12,631 - ERROR: Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py", line 30, in index
+    weather_data1 = fetch_weather(city1, API_KEY, current_weather_url)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py", line 64, in fetch_weather
+    "temperature": round(response['main']['temp'] - 273.15, 2),
+                         ~~~~~~~~^^^^^^^^
+KeyError: 'main'
+2023-11-05 23:05:24,106 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-05 23:05:27,297 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:05:28,792 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkl&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:05:28,792 - ERROR: Error in retrieving weather data for city: djkl
+2023-11-05 23:05:28,792 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:05:30,105 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=djkd&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-05 23:05:30,105 - ERROR: Error in retrieving weather data for city: djkd
+2023-11-05 23:05:30,105 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email weatherappissues@gmail.com with your problem
+2023-11-05 23:05:35,873 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:05:36,678 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 469
+2023-11-05 23:06:00,054 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:06:00,678 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 469
+2023-11-05 23:06:15,318 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:06:16,471 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 469
+2023-11-05 23:08:12,635 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:08:13,248 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 469
+2023-11-05 23:08:20,100 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-05 23:08:21,673 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 469
+2023-11-06 22:02:00,901 - WARNING: Not Found: /favicon.ico
+2023-11-06 22:02:10,620 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 22:02:11,379 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 479
+2023-11-06 22:02:11,387 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 22:02:11,962 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 512
+2023-11-06 22:20:33,183 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-06 22:22:17,685 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-06 22:22:43,910 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-06 22:24:50,450 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-06 22:24:54,868 - WARNING: Not Found: /favicon.ico
+2023-11-06 22:25:05,349 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 22:25:06,116 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 466
+2023-11-06 22:25:06,116 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 22:25:06,788 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 483
+2023-11-06 22:41:04,872 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 22:41:05,537 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 22:41:05,540 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 22:41:06,172 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 480
+2023-11-06 22:48:08,282 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\urls.py changed, reloading.
+2023-11-06 22:48:53,907 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-06 22:56:47,822 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-06 22:57:49,405 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 22:57:50,264 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 466
+2023-11-06 22:57:50,264 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 22:57:50,984 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 480
+2023-11-06 23:28:05,459 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:28:06,327 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:28:06,327 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:28:07,139 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:29:10,905 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:29:11,818 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:29:11,823 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:29:12,889 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:29:26,684 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:29:27,892 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:29:27,900 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:29:29,409 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:29:43,125 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:29:43,762 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:29:43,769 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:29:45,043 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:30:08,791 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:30:09,455 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:30:09,455 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:30:10,080 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:30:34,429 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:30:35,129 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:30:35,136 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:30:35,788 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:30:49,900 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:30:50,599 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:30:50,599 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:30:51,516 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:31:06,576 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:31:08,199 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:31:08,205 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:31:08,843 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:31:40,831 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:31:41,534 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:31:41,534 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:31:42,191 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:32:01,986 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:32:02,913 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:32:02,914 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:32:03,541 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:32:21,528 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:32:22,341 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:32:22,341 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:32:23,013 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:34:01,457 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:34:02,086 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:34:02,095 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:34:02,736 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:35:51,192 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:35:52,213 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:35:52,220 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:35:52,847 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:36:12,255 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:36:12,942 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:36:12,951 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:36:13,571 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:36:33,671 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:36:34,361 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:36:34,366 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:36:34,994 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:36:46,018 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:36:55,890 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:36:55,896 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:36:56,593 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:37:19,272 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:37:19,915 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:37:19,915 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:37:20,543 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:37:28,569 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:37:29,752 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:37:29,764 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:37:30,437 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-06 23:37:45,745 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:37:46,381 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 467
+2023-11-06 23:37:46,386 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-06 23:37:46,988 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 17:55:41,634 - WARNING: Not Found: /favicon.ico
+2023-11-09 17:56:21,775 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:56:22,604 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 17:56:22,615 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:56:23,343 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 17:56:37,458 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:56:38,032 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 17:56:38,042 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:56:38,650 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 17:57:13,847 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:57:14,482 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 17:57:14,482 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:57:15,158 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 17:57:23,765 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:57:24,407 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 17:57:24,415 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:57:25,059 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 17:57:41,123 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:57:41,865 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 17:57:41,873 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:57:42,572 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 17:57:52,355 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:57:52,978 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 17:57:52,986 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:57:53,700 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 17:58:08,197 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:58:08,843 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 17:58:08,843 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:58:09,521 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 17:58:30,384 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:58:31,033 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 17:58:31,033 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:58:31,665 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 17:59:40,974 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:59:41,664 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 17:59:41,664 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 17:59:42,295 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 18:00:02,392 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:00:03,103 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 18:00:03,105 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:00:03,835 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 18:00:11,329 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:00:12,001 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 18:00:12,001 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:00:12,629 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 18:00:25,829 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:00:26,515 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 18:00:26,523 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:00:27,163 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 18:00:56,834 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:00:57,464 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=hk&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-09 18:00:57,466 - ERROR: Error in retrieving weather data for city: hk
+2023-11-09 18:00:57,466 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email weatherappissues@gmail.com with your problem
+2023-11-09 18:02:20,578 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:02:21,216 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 18:02:21,224 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:02:21,859 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 18:06:12,790 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:06:13,472 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 18:06:13,472 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:06:14,185 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 509
+2023-11-09 18:07:04,180 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:07:05,034 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 471
+2023-11-09 18:07:05,034 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:07:05,732 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 509
+2023-11-09 18:22:20,259 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:22:21,091 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=london&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 485
+2023-11-09 18:25:55,974 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 18:26:03,782 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:26:04,385 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 486
+2023-11-09 18:26:12,359 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 18:28:55,324 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 18:29:03,371 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:29:04,344 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 486
+2023-11-09 18:32:47,833 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-09 18:33:20,857 - ERROR: Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py", line 12, in index
+    with open(os.path.join(BASE_DIR, 'API_KEY.txt')) as f:
+                           ^^^^^^^^
+NameError: name 'BASE_DIR' is not defined
+2023-11-09 18:33:40,250 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherApp\views.py changed, reloading.
+2023-11-09 18:38:14,372 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:38:15,667 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=london&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 472
+2023-11-09 18:49:48,517 - WARNING: Not Found: /static/style.css
+2023-11-09 18:49:56,938 - WARNING: Not Found: /static/style.css
+2023-11-09 18:50:22,038 - WARNING: Not Found: /static/style.css
+2023-11-09 18:50:29,503 - WARNING: Not Found: /static/style.css
+2023-11-09 18:51:24,176 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 18:51:38,199 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 18:51:41,353 - WARNING: Not Found: /static/style.css
+2023-11-09 18:54:25,328 - WARNING: Not Found: /static/style.css
+2023-11-09 18:54:25,353 - WARNING: Not Found: /img10.jpg
+2023-11-09 18:55:31,820 - WARNING: Not Found: /static/style.css
+2023-11-09 18:55:31,834 - WARNING: Not Found: /img10.jpg
+2023-11-09 18:55:39,223 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:55:40,386 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 486
+2023-11-09 18:55:40,386 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:55:40,996 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 480
+2023-11-09 18:55:41,096 - WARNING: Not Found: /static/style.css
+2023-11-09 18:55:41,129 - WARNING: Not Found: /img10.jpg
+2023-11-09 18:59:11,277 - WARNING: Not Found: /static/style.css
+2023-11-09 18:59:11,357 - WARNING: Not Found: /img10.jpg
+2023-11-09 18:59:20,104 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:59:21,077 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 486
+2023-11-09 18:59:21,085 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:59:22,291 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 480
+2023-11-09 18:59:22,357 - WARNING: Not Found: /static/style.css
+2023-11-09 18:59:22,389 - WARNING: Not Found: /img10.jpg
+2023-11-09 18:59:28,513 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 18:59:29,131 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=cw&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 404 40
+2023-11-09 18:59:29,131 - ERROR: Error in retrieving weather data for city: cw
+2023-11-09 18:59:29,131 - ERROR: Weather data couldn't be retrieved for the specified city names. Please check your input and try again. If this issue persists please email weatherappissues@gmail.com with your problem
+2023-11-09 18:59:29,165 - WARNING: Not Found: /static/style.css
+2023-11-09 18:59:29,187 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:00:18,245 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 19:00:22,938 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:00:54,786 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:01:11,723 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:02:19,544 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:02:22,985 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:02:32,812 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:04:32,680 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:05:08,948 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:05:15,690 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 19:05:16,530 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 486
+2023-11-09 19:05:16,539 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 19:05:17,744 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 480
+2023-11-09 19:05:17,840 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:05:49,529 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 19:05:54,114 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 19:05:54,720 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 486
+2023-11-09 19:05:54,720 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 19:05:55,428 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 508
+2023-11-09 19:05:55,473 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:05:59,630 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 19:06:00,300 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 486
+2023-11-09 19:06:00,333 - WARNING: Not Found: /static/style.css
+2023-11-09 19:06:00,361 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:06:12,320 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 19:26:04,682 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 19:27:21,711 - INFO: C:\Users\nelso\OneDrive\Desktop\Django\WeatherProject\WeatherProject\settings.py changed, reloading.
+2023-11-09 19:27:25,725 - WARNING: Not Found: /img10.jpg
+2023-11-09 19:27:25,740 - WARNING: Not Found: /favicon.ico
+2023-11-09 19:28:07,315 - WARNING: Not Found: /favicon.ico
+2023-11-09 19:28:13,455 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 19:28:14,225 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 483
+2023-11-09 19:28:14,232 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 19:28:15,195 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Accra&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 481
+2023-11-09 20:05:00,135 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 20:05:00,860 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 472
+2023-11-09 20:13:53,400 - DEBUG: Starting new HTTPS connection (1): api.openweathermap.org:443
+2023-11-09 20:13:54,029 - DEBUG: https://api.openweathermap.org:443 "GET /data/2.5/weather?q=London&appid=8def4916fb38b3845f7f74702d0d84c3 HTTP/1.1" 200 472

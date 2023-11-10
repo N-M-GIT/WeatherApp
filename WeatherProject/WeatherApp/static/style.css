@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    display: flex; /*The child elements within the flex container become flex items. These items can be arranged horizontally or vertically and can be aligned, spaced, and resized within the container according to your design requirements.*/
+    justify-content: center; /* This property is used to horizontally align the flex items within the flex container. By setting it to "center," it centers the items along the horizontal axis (left to right). In this context, it horizontally centers the content of the body element.*/
+    align-items: flex-start; /* This property is used to vertically align the flex items within the flex container. By setting it to "center," it centers the items along the vertical axis (top to bottom). In this context, it vertically centers the content of the body element.*/
+    min-height: 100vh;
+    background: url("img10.jpg") no-repeat ;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.interaction{
+    width: 420px;
+    background: transparent;
+    border:2px solid rgba(255, 255, 255, .2); /*Sets a border with size 2px and color  semi-transparent white.*/
+    backdrop-filter:blur(10px); /*applies a blur effect to the background content behind the .interaction element - higher the number the stronger the blur*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);/*In the box-shadow property, the values are specified in the following order: horizontal offset, vertical offset, blur radius, spread radius, and color - The rgba(0, 0, 0, .2) value sets the shadow color to semi-transparent black.*/
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px; /*makes the top and bottom 30px from contents and the left and right 40px from contents*/
+      /* Existing styles */
+    display: flex;
+    flex-direction: column; /* Change flex-direction to column */
+    align-items: center; /* Center align the content vertically */
+}
+/**/
+.interaction .input-box{
+    position: relative;
+    height: 50px; /*sets height of each input-box to 50px of the height of its containing element which is .interaction. - if pixels of input0box is higher than .interaction then .interaction expands*/
+    margin: 30px 0; /*first is veritical margin and second is horizontal margin*/
+}
+
+.input-box input{
+    width:100%;
+    height: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid;
+    border-color: rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px; /*padding: top right bottom left*/
+}
+
+.input-box input::placeholder{
+    color: #fff;
+}
+.input-box i{ 
+    position: absolute; /*element is positioned relative to its nearest positioned ancestor - A positioned ancestor is an ancestor element that has a position property set to a value other than the default static. The default value for most elements is position: static, which means they are not considered positioned elements. When an element is absolutely positioned and there is no explicitly positioned ancestor, the nearest positioned ancestor becomes the initial containing block (usually the viewport). - the position ancestor is .interaction .input-box as its posotion is set to relative which is not static */
+    right: 20px;/* positions icons 20px from its positional ancestor  */
+    top: 50%; /*moves the top edge of the icons to 50% of the height of the containing element. (.input-box)*/
+    transform: translateY(-50%); /*The negative value (-50%) moves the icons up by half of their height, so they appear perfectly centered within the containing element.*/
+    font-size: 20px;
+}
+
+.interaction button{
+    width: 100%;
+    height: 45px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+}
+
+.output {
+    margin-top: 20px; /* Add margin at the top to separate it from the interaction element */
+    text-align: center; /* Center align the content horizontally */
+    color: #fff;
+}
+.outline{
+    -webkit-text-stroke: 1px black;
+    -webkit-text-fill-color: white;
+    font-weight: 700;
+
+}
+.error{
+    -webkit-text-stroke: 1px black;
+    -webkit-text-fill-color: white;
+    font-size: 2.5em;
+    font-weight: 600;
+
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
