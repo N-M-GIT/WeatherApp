@@ -68,8 +68,8 @@ def fetch_weather(city, api_key, current_weather_url):
          else:
              logging.error("Error in retrieving weather data for city: %s", city)
              return None
-    #except starts the exception handling block and the rest specifies the the type of exceptions being caught
-    #requests.exceptions.RequestException - contains most exceptions that requests is likely to raise
+    # except starts the exception handling block and the rest specifies the the type of exceptions being caught
+    # requests.exceptions.RequestException - contains most exceptions that requests is likely to raise
     # storing the exception/error as e allows us to see what type of exception/error we have
     except requests.exceptions.RequestException as e:
         logging.error("Error in making request to OpenWeatherMap API: %s", e)
